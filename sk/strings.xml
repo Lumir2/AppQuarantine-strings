@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Quarantine</string>
+    <string name="system_apps">Aplikácie</string>
+    <string name="quarantine">Karanténa</string>
+    <string name="settings">Nastavenia</string>
+    <string name="buttonLock">Zamknúť</string>
+    <string name="buttonUnlock">Odomknúť</string>
+    <string name="InvalidItem">Neplatná položka</string>
+    <string name="PackageName">Názov balíka:</string>
+    <string name="Partition">Partícia:</string>
+    <string name="LastUpdateTime">Aktualizované:</string>
+    <string name="appVersion">Verzia:</string>
+    <string name="OK">OK</string> 
+    <string name="Error">Chyba</string>
+    <string name="errorRootFailed">Zlyhalo získanie root prístupu! Musíte mať rootnuté zariadenie a povoliť práva v Superuser pre túto aplikáciu!</string>
+    <string name="select_details">Vyberte aplikáciu pre zobrazenie detailov.</string>
+    <string name="Yes">Áno</string>
+    <string name="No">Nie</string>
+    <string name="refreshing_list">Obnovovanie zoznamu...</string>
+    <string name="perform_lock">Zamkýnanie...</string>
+    <string name="perform_unlock">Odomykanie...</string>
+    <string name="restore_instructions">Váš systém bol obnovený. Chcete presunúť všetky vybraté aplikácie späť do karantény?</string>
+    <string name="quarantine_updates">Nasledujúce aplikácie boli v karanténe, ale dostali aktualizáciu cez systém:</string>
+    <string name="back_into_quarantine">Vrátiť ich späť do karantény?</string>
+    <string name="check_auto_quarantine">Autom. presunúť aktualizované aplikácie do karantény</string>
+    <string name="select_the_apps">Vyberte nejakú aplikáciu pre použitie widgetu:</string>
+    <string name="refresh">Obnoviť</string>
+
+    <string name="groups">Skupiny</string>
+    <string name="license">Zdroje</string>
+    
+    <string name="addGroup">Pridať</string>
+    <string name="editGroup">Upraviť</string>
+    <string name="deleteGroup">Vymazať</string>
+    <string name="filterGroups">Filter</string>
+    <string name="saveGroup">Uložiť</string>
+    <string name="groupName">Názov</string>
+    <string name="groupApps">Aplikácie</string>
+    <string name="editFilter">Upraviť filter</string>
+    <string name="allPermissions">Všetky práva</string>
+    <string name="selectPermissions">Vyberte práva:</string>
+    <string name="askDeleteGroup">Vymazať skupinu?</string>
+    <string name="instructions_add_groups">V tomto okne môžete vytvoriť nové skupiny. Stlačte symbol hore!</string>
+
+    <string name="DEVELOPMENT_TOOLS">Nástroje pre vývojárov</string>
+	<string name="PERSONAL_INFO">Osobné údaje</string>
+	<string name="COST_MONEY">Platené služby</string>
+	<string name="LOCATION">Služby o polohe</string>
+	<string name="MESSAGES">Odoslať správy</string>
+	<string name="NETWORK">Prístup na internet</string>
+	<string name="ACCOUNTS">Správca užívateľských účtov</string>
+	<string name="STORAGE">Prístup na SD kartu</string>
+	<string name="PHONE_CALLS">Volať cez zariadenie</string>
+	<string name="HARDWARE_CONTROLS">Ovládať hardware</string>
+	<string name="SYSTEM_TOOLS">Nástroje systému</string>        
+
+    <string name="playstore">Obchod</string>
+    <string name="appinfo">Info</string>
+    <string name="errorAdbToggle">Zlyhalo zapnutie ladenia cez USB. Skontrolujte, či AdbToggle je nainštalovaný správne!</string>
+    <string name="cancel">Zrušiť</string>
+
+    <string name="password">Heslo</string>
+    <string name="enterPassword">Zadajte heslo</string>
+    <string name="confirmPassword">Potvrďte heslo</string>
+    <string name="password_mismatch">Heslá sa nezhodujú! Skúste to znovu!</string>
+    <string name="password_too_short">Heslo je veľmi krátke! Zadajte aspoň 4 znaky!</string>
+    <string name="error_storing_password">Nedá sa uložiť heslo! Ochrana heslom nie je aktívna!</string>
+    <string name="change">Zmeniť</string>
+    <string name="enterPasswordInstructions">Zadajte heslo pre odomknutie</string>
+    <string name="wrongPassword">Nesprávne heslo! Skúste to znovu!</string>
+    <string name="passwordChanged">Heslo bolo zmenené!</string>
+    
+    <string name="enableAll">Povoliť všetko</string>
+    <string name="disableAll">Zakázať všetko</string>
+
+    <plurals name="apps">
+        <item quantity="one">Vybratá 1 aplikácia</item>
+        <item quantity="other">Vybratých - %d</item>
+    </plurals>
+    <plurals name="groups">
+        <item quantity="one">Vybratá 1 skupina</item>
+        <item quantity="other">Vybratých - %d</item>
+    </plurals>
+
+    <string name="senderrorreport">Odoslať správu o chybe</string>
+    <string name="errorRootAccess">Vyskytla sa nečakaná chyba!</string>
+    <string name="errorSuFailure">Príkaz zlyhal! Aktualizujte \'SuperUser\' binary!\n\nAk nepracuje alebo máte stále problémy, potom použite namiesto \'SuperSu\'.</string>
+
+    <plurals name="active_apps">
+        <item quantity="one">1 aktívna</item>
+        <item quantity="other">Aktívnych %d</item>
+    </plurals>
+
+    <string name="no_active_apps">Keď spustíte aplikácie cez widget, môžete ich prepínať tam.</string>
+
+    <string name="pref_filter">Filter</string>
+    <string name="pref_filter_summary">Výber typu aplikácií na presunutie do karantény.</string>
+    <string name="pref_filter_apps">Aplikácie</string>
+    <string name="pref_filter_apps_title">Filter aplikácií</string>
+
+    <string name="pref_filter_apps_all">Zobraziť všetky aplikácie</string>
+    <string name="pref_filter_apps_all_summary">Zobrazia sa užívateľské a systémové aplikácie. Systémové budú zvýraznené červeno.</string>
+    <string name="pref_filter_apps_system">Zobraziť len systémové aplikácie</string>
+    <string name="pref_filter_apps_system_summary">Zobrazia sa len systémové aplikácie.</string>
+    <string name="pref_filter_apps_user">Zobraziť len užívateľské aplikácie</string>
+    <string name="pref_filter_apps_user_summary">Zobrazia sa len užívateľské aplikácie.</string>
+    <string name="pref_filter_advanced">Rozšírené</string>
+    <string name="pref_filter_advanced_summary">Pre skúsených užívateľov.</string>
+    <string name="pref_filter_system_services">Systémové služby</string>
+    <string name="pref_filter_system_services_summary">Zahrnúť služby systému.</string>
+
+    <string name="pref_widgets">Widgety</string>
+    <string name="pref_widgets_summary">Prispôsobte si vzhľad a správanie widgetov.</string>
+    <string name="pref_widgets_behavior">Správanie</string>
+    <string name="pref_widget_direct_launch">Priamo spustiť</string>
+    <string name="pref_widget_direct_launch_summary">Spustiť aplikáciu jedným kliknutím.</string>
+    <string name="pref_widgets_appearance">Vzhľad</string>
+    <string name="pref_widget_custom_appearance">Prispôsobiť vzhľad</string>
+    <string name="pref_widget_custom_appearance_summary">Zmeniť predvolený vhľad.</string>
+    <string name="pref_widget_black_background">Čierne pozadie</string>
+    <string name="pref_widget_black_background_summary">Zobraziť s čiernym pozadím.</string>
+    <string name="pref_widget_hide_caption">Skryť záhlavie</string>
+    <string name="pref_widget_hide_caption_summary">Skryť názov skupiny alebo aplikácie.</string>
+    <string name="pref_widget_hide_status_icon">Skryť stav</string>
+    <string name="pref_widget_hide_status_icon_summary">Skryť indikátor stavu prepnutia.</string>
+
+    <string name="pref_notifications">Upozornenia</string>
+    <string name="pref_notifications_summary">Zmeniť nastavenie upozornení.</string>
+    <string name="pref_notifications_enabled">Zapnúť upozornenia</string>
+    <string name="pref_notifications_enabled_summary">Zobraziť upozornenie po spustení aplikácie cez widget.</string>
+    <string name="pref_notifications_active_only">Iba aktívne aplikácie</string>
+    <string name="pref_notifications_active_only_summary">Zobraziť iba aktívne aplikácie v upozorneniach.</string>
+
+    <string name="pref_security">Zabezpečenie</string>
+    <string name="pref_security_summary">Zamedziť nežiadaným akciám.</string>
+    <string name="pref_protection_enabled">Zapnúť ochranu</string>
+    <string name="pref_protection_enabled_summary">Požadovať heslo pri každej akcii.</string>
+    <string name="pref_change_password">Zmeniť heslo</string>
+
+    <string name="pref_advanced">Rozšírené</string>
+    <string name="pref_advanced_summary">Viac nastavení pre skúsených užívateľov.</string>
+    <string name="pref_advanced_apps">Aplikácie</string>
+    <string name="pref_advanced_show_details">Zobraziť detaily</string>
+    <string name="pref_advanced_show_details_summary">Zobraziť názov balíka každej aplikácie.</string>
+    <string name="pref_advanced_updates">Aktualizácia</string>
+    <string name="pref_advanced_detect_updates">Sledovať aktualizácie</string>
+    <string name="pref_advanced_detect_updates_summary">Detekovať aktualizácie aplikácií v karanténe.</string>
+    <string name="pref_advanced_auto_quarantine">Automatická karanténa</string>
+    <string name="pref_advanced_auto_quarantine_summary">Vždy ponechať aktualizované aplikácie v karanténe.</string>
+    <string name="pref_advanced_system">Systém</string>
+    <string name="pref_advanced_force_restart_launcher">Vynútiť reštartovanie spúšťača</string>
+    <string name="pref_advanced_force_restart_launcher_summary">Automaticky reštartovať spúšťač po prepnutí aplikácií</string>
+
+    <string name="pref_about">O programe</string>
+    <string name="pref_about_summary">Poďakovanie a viac informácií od vývojára.</string>
+    <string name="pref_about_app">Aplikácia</string>
+    <string name="pref_about_version">Verzia</string>
+    <string name="pref_about_links">Odkazy</string>
+    <string name="pref_about_rate">Hodnotiť</string>
+    <string name="pref_about_rate_summary">Napíšte komentár a ohodnoťte ma.</string>
+    <string name="pref_about_plus">Google Plus</string>
+    <string name="pref_about_plus_summary">Spojte sa so mnou na Google Plus.</string>
+    <string name="pref_about_blog">Blog vývojára</string>
+    <string name="pref_about_blog_summary">Informujte sa o najnovších projektoch.</string>
+    <string name="pref_about_credits">Poďakovanie</string>
+    <string name="pref_about_licenses">Logo + Open source licencie</string>
+
+    <string name="enable_advanced_options">Povoliť rozšírené možnosti?</string>
+    <string name="enable_advanced_options_summary">Povoľte rozšírené možnosti len ak viete, čo robíte. Ak vypnete nesprávnu službu systému, vaše zariadenie môže prestať pracovať!</string>
+    <string name="enable_force_restart_launcher">Vynútene reštartovať spúšťač?</string>
+    <string name="enable_force_restart_launcher_summary">Použite túto možnosť, ak aplikácie v karanténe sa stále spúšťajú. Obyčajne všetky spúšťače detekujú zakázané aplikácie automaticky, ale niektoré staršie spúšťače to nepodporujú.</string>
+
+    <string name="pref_pro_version_feature">Táto funkcia je dostupná len vo verzii PRO!</string>
+
+    <string name="unknown">Neznáme</string>
+
+</resources>

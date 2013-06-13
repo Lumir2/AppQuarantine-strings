@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<resources>
+	<string name="app_name">App Quarantine</string>
+	<string name="system_apps">Aplikacje</string> 
+	<string name="quarantine">Kwarantanna</string> 
+	<string name="settings">Ustawienia</string> 
+	<string name="buttonLock">Blokuj</string> 
+	<string name="buttonUnlock">Odblokuj</string>
+	<string name="InvalidItem">Niepoprawny obiekt</string> 
+	<string name="PackageName">Nazwa pakietu:</string> 
+	<string name="Partition">Partycja:</string> 
+	<string name="LastUpdateTime">Ostatnia aktualizacja:</string> 
+	<string name="appVersion">Wersja:</string> 
+	<string name="OK">OK</string> 
+	<string name="Error">Błąd</string>
+	<string name="errorRootFailed">Brak dostępu do roota! Potrzebujesz zrotowanego urządzenia oraz musisz przydzielić dostęp tej aplikacji w Superuser!</string>
+	<string name="select_details">Wybierz aplikacje, aby wyświetlić więcej informacji.</string>
+	<string name="Yes">Tak</string> 
+	<string name="No">Nie</string>
+	<string name="refreshing_list">Odświeżanie listy...</string>
+	<string name="perform_lock">Przenoszę aplikacje...</string> 
+	<string name="perform_unlock">Przywracam aplikacje...</string> 
+	<string name="restore_instructions">System został zresetowany. Czy chcesz przenieść wszystkie wybrane aplikacje spowrotem do kwarantanny?</string>
+	<string name="quarantine_updates">Następujące aplikacje znajdujące się w kwarantannie zostały zaktualizowane:</string> 
+	<string name="back_into_quarantine">Przenieść spowrotem do kwarantanny?</string> 
+	<string name="check_auto_quarantine">Automatycznie przenieś zaktualizowane do kwarantanny</string>
+	<string name="select_the_apps">Wybierz aplikację do użycia w widżecie:</string>
+	<string name="refresh">Odśwież</string>
+
+    <string name="groups">Grupy</string>
+	<string name="license">Kredyty</string>
+	
+	<string name="addGroup">Dodaj</string>
+	<string name="editGroup">Edytuj</string>
+	<string name="deleteGroup">Usuń</string>
+	<string name="filterGroups">Filtr</string>
+	<string name="saveGroup">Zapisz</string>
+	<string name="groupName">Nazwa</string>
+	<string name="groupApps">Aplikacja</string>
+	<string name="editFilter">Edytuj filtr</string>
+	<string name="allPermissions">Wszystkie pozwolenia</string>
+	<string name="selectPermissions">Wybierz pozwolenia:</string>
+	<string name="askDeleteGroup">Usunąć grupę?</string>
+	<string name="instructions_add_groups">Na tym ekranie możesz tworzyć nowe grupy. Wystarczy dotknąć symbol powyżej!</string>
+	
+	<string name="DEVELOPMENT_TOOLS">Narzędzia deweloperskie</string>
+	<string name="PERSONAL_INFO">Osobiste informacje</string>
+	<string name="COST_MONEY">Płatne usługi</string>
+	<string name="LOCATION">Usługi lokalizacji</string>
+	<string name="MESSAGES">Wysyłanie wiadomości</string>
+	<string name="NETWORK">Dostęp do internetu</string>
+	<string name="ACCOUNTS">Zarządzanie kontem użytkownika</string>
+	<string name="STORAGE">Dostęp do karty SD</string>
+	<string name="PHONE_CALLS">Wykonywanie połączeń tel.</string>
+	<string name="HARDWARE_CONTROLS">Dostęp do sprzętu</string>
+	<string name="SYSTEM_TOOLS">Narzędzia systemowe</string>  
+
+	<string name="playstore">Sklep Play</string>
+	<string name="appinfo">Informacja o aplikacji</string>
+	<string name="errorAdbToggle">Nie można uaktywnić trybu debugowania USB. Proszę sprawdź czy AdbToggle jest poprawnie zainstalowany!</string>	
+	<string name="cancel">Anuluj</string>
+
+	<string name="password">Hasło</string>
+	<string name="enterPassword">Wpisz hasło</string>
+	<string name="confirmPassword">Potwierdź hasło</string>
+	<string name="password_mismatch">Hasła muszą być identyczne! Spróbuj ponownie!</string>
+	<string name="password_too_short">Hasło jest zbyt krótkie! Wpisz conajmniej 4 znaki!</string>
+	<string name="error_storing_password">Nie można zapisać hasła! Ochrona hasła jest nieaktywna!</string>
+	<string name="change">Zmień</string>
+	<string name="enterPasswordInstructions">Wpisz hasło, aby odblokować!</string>
+	<string name="wrongPassword">Złe hasło! Spróbuj ponownie!</string>
+	<string name="passwordChanged">Hasło zostało zmienione!</string>
+	
+	<string name="enableAll">Włącz wszystkie</string>
+	<string name="disableAll">Wyłącz wszystkie</string>
+
+</resources>

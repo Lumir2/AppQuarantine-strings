@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Quarantine</string>
+    <string name="system_apps">Apps</string>
+    <string name="quarantine">Quarantäne</string>
+    <string name="settings">Einstellungen</string>
+    <string name="buttonLock">Sperren</string>
+    <string name="buttonUnlock">Wiederherstellen</string>
+    <string name="InvalidItem">Ungültiger Eintrage</string>
+    <string name="PackageName">Package Name:</string>
+    <string name="Partition">Partition:</string>
+    <string name="LastUpdateTime">Letztes Update:</string>
+    <string name="appVersion">Version:</string>
+    <string name="OK">OK</string> 
+    <string name="Error">Fehler</string>
+    <string name="errorRootFailed">Die Anwendung konnte keinen Root-Zugriff erlangen! Ein gerootetes Gerät und für die Anwendung freigegebene Superuser-Rechte sind notwendig!</string>
+    <string name="select_details">Wählen Sie eine App aus um mehr Details zu sehen.</string>
+    <string name="Yes">Ja</string>
+    <string name="No">Nein</string>
+    <string name="refreshing_list">Aktualisiere Liste...</string>
+    <string name="perform_lock">Sperre Anwendungen...</string>
+    <string name="perform_unlock">Aktiviere Anwendungen...</string>
+    <string name="restore_instructions">Ihr System wurde zurückgesetzt. Wollen Sie alle ausgewählten Anwendungen wieder in die Quarantäne verschieben?</string>
+    <string name="quarantine_updates">Die folgende App befand sich unter Quarantäne, wurde aber vom System aktualisiert:</string>
+    <string name="back_into_quarantine">Zurück in die Quarantäne verschieben?</string>
+    <string name="check_auto_quarantine">Updates automatisch in Quarantäne</string>
+    <string name="select_the_apps">Wählen sie eine App zur Verwendung im Widget aus:</string>
+    <string name="refresh">Aktualisieren</string>
+
+    <string name="groups">Gruppen</string>
+    <string name="license">Credits</string>
+    
+    <string name="addGroup">Hinzufügen</string>
+    <string name="editGroup">Bearbeiten</string>
+    <string name="deleteGroup">Löschen</string>
+    <string name="filterGroups">Filter</string>
+    <string name="saveGroup">Speichern</string>
+    <string name="groupName">Name</string>
+    <string name="groupApps">Apps</string>
+    <string name="editFilter">Filter bearbeiten</string>
+    <string name="allPermissions">Alle Berechtigungen</string>
+    <string name="selectPermissions">Berechtigungen auswählen:</string>
+    <string name="askDeleteGroup">Gruppe löschen?</string>
+    <string name="instructions_add_groups">In diesem Bereich können Sie neue Gruppen anlegen. Wählen Sie hierfür das Symbol rechts oben an!</string>
+    
+    <string name="DEVELOPMENT_TOOLS">Entwicklertools</string>
+	<string name="PERSONAL_INFO">Persönliche Daten</string>
+	<string name="COST_MONEY">Dienste die Geld kosten</string>
+	<string name="LOCATION">Ortsbestimmung</string>
+	<string name="MESSAGES">Nachrichten verschicken</string>
+	<string name="NETWORK">Internetzugriff</string>
+	<string name="ACCOUNTS">Benutzerkonten verwalten</string>
+	<string name="STORAGE">Zugriff auf SD-Karte</string>
+	<string name="PHONE_CALLS">Anrufe tätigen</string>
+	<string name="HARDWARE_CONTROLS">Hardwarezugriff</string>
+	<string name="SYSTEM_TOOLS">Systemtools</string>
+
+    <string name="playstore">Play store</string>
+    <string name="appinfo">App Info</string>    
+    <string name="errorAdbToggle">Der USB Debug Modus konnt nicht aktiviert werden. Bitte überprüfen sie ob AdbToggle richtig installiert ist!</string>
+    <string name="cancel">Abbrechen</string>
+
+    <string name="password">Passwort</string>
+    <string name="enterPassword">Passwort eingeben</string>
+    <string name="confirmPassword">Password bestätigen</string>
+    <string name="password_mismatch">Die Passwörter sind nicht identisch! Bitte erneut versuchen!</string>
+    <string name="password_too_short">Das Passwort ist zu kurz! Es sind mindestens 4 Zeichen notwendig!</string>
+    <string name="error_storing_password">Das Passwort konnte nicht gespeichert werden! Der Passwortschutz ist nicht aktiv!</string>
+    <string name="change">Ändern</string>
+    <string name="enterPasswordInstructions">Geben Sie das Passwort zum entsperren ein!</string>
+    <string name="wrongPassword">Falsches Passwort! Bitte versuchen Sie es erneut!</string>
+    <string name="passwordChanged">Das Passwort wurde geändert!</string>
+    
+    <string name="enableAll">Alle entsperren</string>
+    <string name="disableAll">Alle sperren</string>
+
+    <plurals name="apps">
+        <item quantity="one">1 App ausgewählt</item>
+        <item quantity="other">%d Apps ausgewählt</item>
+    </plurals>
+    <plurals name="groups">
+        <item quantity="one">1 Gruppe ausgewählt</item>
+        <item quantity="other">%d Gruppen ausgewählt</item>
+    </plurals>
+
+    <string name="senderrorreport">Fehlerbericht schicken</string>
+    <string name="errorRootAccess">Ein unerwarteter Fehler ist aufgetreten! Wollen Sie jetzt einen Fehlerbericht an den Entwickler schicken?</string>
+    <string name="errorSuFailure">Der Befehl ist fehlgeschlagen! Bitte aktualisieren Sie Ihre \'SuperUser\' binary!\n\nWenn das nicht funktioniert oder die Probleme weiterhin bestehen dann sollten Sie stattdessen \'SuperSu\' benutzen.</string>
+
+    <plurals name="active_apps">
+        <item quantity="one">1 aktive App</item>
+        <item quantity="other">%d aktive Apps</item>
+    </plurals>
+
+    <string name="no_active_apps">Wenn die Apps von einem Widget aus aktiviert werden, können sie von hier aus wieder gesperrt/entsperrt werden.</string>
+
+    <string name="pref_filter">Filter</string>
+    <string name="pref_filter_summary">Festlegen welche Apps angezeigt werden sollen</string>
+    <string name="pref_filter_apps">Apps</string>
+    <string name="pref_filter_apps_title">Apps filtern</string>
+
+    <string name="pref_filter_apps_all">Alle Apps anzeigen</string>
+    <string name="pref_filter_apps_all_summary">System- und eigene Apps anzeigen. System-Apps erscheinen in rot.</string>
+    <string name="pref_filter_apps_system">Nur System-Apps</string>
+    <string name="pref_filter_apps_system_summary">Nur System-Apps anzeigen.</string>
+    <string name="pref_filter_apps_user">Nur eigene Apps</string>
+    <string name="pref_filter_apps_user_summary">Nur eigene Apps anzeigen.</string>
+    <string name="pref_filter_advanced">Erweitert</string>
+    <string name="pref_filter_advanced_summary">Für erfahrene Benutzer</string>
+    <string name="pref_filter_system_services">System-Dienste</string>
+    <string name="pref_filter_system_services_summary">System-Dienste mit anzeigen</string>
+
+    <string name="pref_widgets">Widgets</string>
+    <string name="pref_widgets_summary">Aussehen und Verhalten verändern</string>
+    <string name="pref_widgets_behavior">Verhalten</string>
+    <string name="pref_widget_direct_launch">Direktes Starten</string>
+    <string name="pref_widget_direct_launch_summary">Apps direkt aus Widget starten</string>
+    <string name="pref_widgets_appearance">Aussehen</string>
+    <string name="pref_widget_custom_appearance">Benutzedefiniert</string>
+    <string name="pref_widget_custom_appearance_summary">Aussehen verändern</string>
+    <string name="pref_widget_black_background">Schwarzer Hintergrund</string>
+    <string name="pref_widget_black_background_summary">Mit schwarzem Hintergrund anzeigen</string>
+    <string name="pref_widget_hide_caption">Titel verstecken</string>
+    <string name="pref_widget_hide_caption_summary">Name der Gruppe/App nicht anzeigen</string>
+    <string name="pref_widget_hide_status_icon">Status verstecken</string>
+    <string name="pref_widget_hide_status_icon_summary">Statusmarkierung nicht anzeigen</string>
+
+    <string name="pref_notifications">Benachrichtigungen</string>
+    <string name="pref_notifications_summary">Benachrichtigungseinstellungen ändern</string>
+    <string name="pref_notifications_enabled">Aktivieren</string>
+    <string name="pref_notifications_enabled_summary">Benachrichtigungen anzeigen wenn Apps aus einem Widget gestartet werden</string>
+    <string name="pref_notifications_active_only">Nur aktive Apps</string>
+    <string name="pref_notifications_active_only_summary">Nur aktive Apps in Benachrichtigung anzeigen</string>
+
+    <string name="pref_security">Sicherheit</string>
+    <string name="pref_security_summary">Ungewollten Zugriff verhindern</string>
+    <string name="pref_protection_enabled">Aktivieren</string>
+    <string name="pref_protection_enabled_summary">Ein Passwort wird für alle Aktionen benötigt</string>
+    <string name="pref_change_password">Passwort ändern</string>
+
+    <string name="pref_advanced">Erweitert</string>
+    <string name="pref_advanced_summary">Weitere Einstellungen für fortgeschrittene Benutzer</string>
+    <string name="pref_advanced_apps">Apps</string>
+    <string name="pref_advanced_show_details">Details anzeigen</string>
+    <string name="pref_advanced_show_details_summary">Paketname für jede App anzeigen</string>
+    <string name="pref_advanced_updates">Updates</string>
+    <string name="pref_advanced_detect_updates">Updates überwachen</string>
+    <string name="pref_advanced_detect_updates_summary">Erkennen wenn Apps aus der Quarantine aktualisiert werden</string>
+    <string name="pref_advanced_auto_quarantine">Auto-Quarantäne</string>
+    <string name="pref_advanced_auto_quarantine_summary">Apps nach einer Aktualisierung immer unter Quarantäne behalten</string>
+    <string name="pref_advanced_system">System</string>
+    <string name="pref_advanced_force_restart_launcher">Launcher Neustart</string>
+    <string name="pref_advanced_force_restart_launcher_summary">Launcher automatisch neu starten wenn Apps gesperrt/entsperrt werden</string>
+
+    <string name="pref_about">Informationen</string>
+    <string name="pref_about_summary">Credits and weitere Informationen vom Entwickler</string>
+    <string name="pref_about_app">App</string>
+    <string name="pref_about_version">Version</string>
+    <string name="pref_about_links">Links</string>
+    <string name="pref_about_rate">Bewerte mich</string>
+    <string name="pref_about_rate_summary">Hinterlassen sie mir eine Bewertung</string>
+    <string name="pref_about_plus">Google Plus</string>
+    <string name="pref_about_plus_summary">Folgen sie mir auf Google Plus</string>
+    <string name="pref_about_blog">Entwickler Blog</string>
+    <string name="pref_about_blog_summary">Erfahren sie alles über meine neuesten Projekte</string>
+    <string name="pref_about_credits">Credits</string>
+    <string name="pref_about_licenses">Logo + Open source Lizenzen</string>
+
+    <string name="enable_advanced_options">Erweiterte Optionen</string>
+    <string name="enable_advanced_options_summary">Bitte die erweiterten Optionen nur aktivieren wenn sie genau wissen was sie tun. Ihr Gerät wird nicht mehr richtig funktionieren wenn sie die falschen Systemdienste sperren!</string>
+    <string name="enable_force_restart_launcher">Launcher Neustart?</string>
+    <string name="enable_force_restart_launcher_summary">Benutzen sie diese Einstellung nur wenn gesperrte Apps immernoch im Launcher erscheinen. Normalerweise werden gesperrte Apps automatisch von den Launchern erkannt, einige ältere Launcher unterstützen dies aber nicht. Benutzen sie die Einstellung also nur wenn dieses Problem auftritt!</string>
+
+    <string name="pref_pro_version_feature">Diese Funktion ist nur in der Pro-Version verfügbar!</string>
+
+    <string name="unknown">Unbekannt</string>
+
+</resources>
