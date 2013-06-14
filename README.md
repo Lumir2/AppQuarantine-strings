@@ -10,6 +10,7 @@ Maintainers
 
 en, de --> ramdroid<br>
 sk --> Lumir Strauch<br>
+it --> Gabriele Mariotti<br>
 pl --> (abandoned - forgot name of previous translator)<br>
 
 
