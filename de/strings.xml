@@ -164,7 +164,15 @@
     <string name="pref_about_blog">Entwickler Blog</string>
     <string name="pref_about_blog_summary">Erfahren sie alles über meine neuesten Projekte</string>
     <string name="pref_about_credits">Credits</string>
+    <string name="pref_about_translations">Übersetzungen</string>
+    <string name="pref_about_translations_available">Verfügbare Sprachen</string>
+    <string name="pref_about_translations_missing">Fehlt ihre Sprache?</string>
+    <string name="pref_about_translations_help">Beim Übersetzen helfen</string>
+    <string name="pref_about_translations_help_summary">Den Entwickler kontaktieren</string>
     <string name="pref_about_licenses">Logo + Open source Lizenzen</string>
+
+    <string name="pref_translation_it">Italienisch</string>
+    <string name="pref_translation_sk">Slowakisch</string>
 
     <string name="enable_advanced_options">Erweiterte Optionen</string>
     <string name="enable_advanced_options_summary">Bitte die erweiterten Optionen nur aktivieren wenn sie genau wissen was sie tun. Ihr Gerät wird nicht mehr richtig funktionieren wenn sie die falschen Systemdienste sperren!</string>
@@ -174,5 +182,37 @@
     <string name="pref_pro_version_feature">Diese Funktion ist nur in der Pro-Version verfügbar!</string>
 
     <string name="unknown">Unbekannt</string>
+
+    <string name="quarantine_drawer">Quarantine drawer</string>
+    <string name="search">Search</string>
+
+    <string name="pref_quarantinedrawer">Quarantine drawer</string>
+    <string name="pref_quarantinedrawer_summary">Optionen für den Quarantine drawer konfigurieren</string>
+    <string name="pref_quarantinedrawer_enabled">Aktivieren</string>
+    <string name="pref_quarantinedrawer_launch">Start-Modus</string>
+    <string name="pref_quarantinedrawer_shortcut">Desktop Verknüpfung</string>
+    <string name="pref_quarantinedrawer_shortcut_summary">Verknüpfung kann auf dem Desktop angelegt werden</string>
+    <string name="pref_quarantinedrawer_homebutton">Home Taste</string>
+    <string name="pref_quarantinedrawer_homebutton_summary">Home Taste lange gedrückt halten um zu Starten</string>
+    <string name="pref_quarantinedrawer_test">Testen</string>
+    <string name="pref_quarantinedrawer_test_launch">Jetzt starten</string>
+
+    <string name="pro_feature">Pro feature</string>
+
+    <string name="favorites">Favoriten</string>
+    <string name="add_to_favorites">Hinzufügen</string>
+    <string name="remove_from_favorites">Entfernen</string>
+    <string name="add_to_favorites_summary">Apps antippen zum Hinzufügen</string>
+    <string name="remove_from_favorites_summary">Apps antippen zum Entfernen</string>
+    <string name="apply">Übernehmen</string>
+
+    <plurals name="favorites_added">
+        <item quantity="one">1 app wurde hinzugefügt</item>
+        <item quantity="other">%d apps wurden hinzugefügt</item>
+    </plurals>
+    <plurals name="favorites_removed">
+        <item quantity="one">1 app wurde entfernt</item>
+        <item quantity="other">%d apps wurden entfernt</item>
+    </plurals>
 
 </resources>
