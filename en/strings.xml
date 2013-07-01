@@ -164,7 +164,15 @@
     <string name="pref_about_blog">Developer blog</string>
     <string name="pref_about_blog_summary">Keep up with my newest projects</string>
     <string name="pref_about_credits">Credits</string>
+    <string name="pref_about_translations">Translations</string>
+    <string name="pref_about_translations_available">Available languages</string>
+    <string name="pref_about_translations_missing">Is your language missing?</string>
+    <string name="pref_about_translations_help">Help with translations</string>
+    <string name="pref_about_translations_help_summary">Get in touch with the developer</string>
     <string name="pref_about_licenses">Logo + Open source licenses</string>
+
+    <string name="pref_translation_it">Italian</string>
+    <string name="pref_translation_sk">Slovak</string>
 
     <string name="enable_advanced_options">Enable advanced options?</string>
     <string name="enable_advanced_options_summary">Only enable advanced options when you know what you are doing! If you disable the wrong system services then your device might not work anymore!</string>
@@ -190,5 +198,21 @@
     <string name="pref_quarantinedrawer_test_launch">Launch now</string>
 
     <string name="pro_feature">Pro feature</string>
+
+    <string name="favorites">Favorites</string>
+    <string name="add_to_favorites">Add to favourites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="add_to_favorites_summary">Touch apps you want to add</string>
+    <string name="remove_from_favorites_summary">Touch apps you want to remove</string>
+    <string name="apply">Apply</string>
+
+    <plurals name="favorites_added">
+        <item quantity="one">1 app has been added</item>
+        <item quantity="other">%d apps have been added</item>
+    </plurals>
+    <plurals name="favorites_removed">
+        <item quantity="one">1 app has been removed</item>
+        <item quantity="other">%d apps have been removed</item>
+    </plurals>
 
 </resources>
