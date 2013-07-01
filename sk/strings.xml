@@ -95,65 +95,65 @@
     <string name="no_active_apps">Keď spustíte aplikácie cez widget, môžete ich prepínať tam.</string>
 
     <string name="pref_filter">Filter</string>
-    <string name="pref_filter_summary">Výber typu aplikácií na presunutie do karantény.</string>
+    <string name="pref_filter_summary">Výber typu aplikácií na presunutie do karantény</string>
     <string name="pref_filter_apps">Aplikácie</string>
     <string name="pref_filter_apps_title">Filter aplikácií</string>
 
     <string name="pref_filter_apps_all">Zobraziť všetky aplikácie</string>
-    <string name="pref_filter_apps_all_summary">Zobrazia sa užívateľské a systémové aplikácie. Systémové budú zvýraznené červeno.</string>
+    <string name="pref_filter_apps_all_summary">Zobrazia sa užívateľské a systémové aplikácie. Systémové budú zvýraznené červeno</string>
     <string name="pref_filter_apps_system">Zobraziť len systémové aplikácie</string>
-    <string name="pref_filter_apps_system_summary">Zobrazia sa len systémové aplikácie.</string>
+    <string name="pref_filter_apps_system_summary">Zobrazia sa len systémové aplikácie</string>
     <string name="pref_filter_apps_user">Zobraziť len užívateľské aplikácie</string>
-    <string name="pref_filter_apps_user_summary">Zobrazia sa len užívateľské aplikácie.</string>
+    <string name="pref_filter_apps_user_summary">Zobrazia sa len užívateľské aplikácie</string>
     <string name="pref_filter_advanced">Rozšírené</string>
-    <string name="pref_filter_advanced_summary">Pre skúsených užívateľov.</string>
+    <string name="pref_filter_advanced_summary">Pre skúsených užívateľov</string>
     <string name="pref_filter_system_services">Systémové služby</string>
-    <string name="pref_filter_system_services_summary">Zahrnúť služby systému.</string>
+    <string name="pref_filter_system_services_summary">Zahrnúť služby systému</string>
 
     <string name="pref_widgets">Widgety</string>
-    <string name="pref_widgets_summary">Prispôsobte si vzhľad a správanie widgetov.</string>
+    <string name="pref_widgets_summary">Prispôsobte si vzhľad a správanie widgetov</string>
     <string name="pref_widgets_behavior">Správanie</string>
     <string name="pref_widget_direct_launch">Priamo spustiť</string>
-    <string name="pref_widget_direct_launch_summary">Spustiť aplikáciu jedným kliknutím.</string>
+    <string name="pref_widget_direct_launch_summary">Spustiť aplikáciu jedným kliknutím</string>
     <string name="pref_widgets_appearance">Vzhľad</string>
     <string name="pref_widget_custom_appearance">Prispôsobiť vzhľad</string>
-    <string name="pref_widget_custom_appearance_summary">Zmeniť predvolený vhľad.</string>
+    <string name="pref_widget_custom_appearance_summary">Zmeniť predvolený vhľad</string>
     <string name="pref_widget_black_background">Čierne pozadie</string>
-    <string name="pref_widget_black_background_summary">Zobraziť s čiernym pozadím.</string>
+    <string name="pref_widget_black_background_summary">Zobraziť s čiernym pozadím</string>
     <string name="pref_widget_hide_caption">Skryť záhlavie</string>
-    <string name="pref_widget_hide_caption_summary">Skryť názov skupiny alebo aplikácie.</string>
+    <string name="pref_widget_hide_caption_summary">Skryť názov skupiny alebo aplikácie</string>
     <string name="pref_widget_hide_status_icon">Skryť stav</string>
-    <string name="pref_widget_hide_status_icon_summary">Skryť indikátor stavu prepnutia.</string>
+    <string name="pref_widget_hide_status_icon_summary">Skryť indikátor stavu prepnutia</string>
 
     <string name="pref_notifications">Upozornenia</string>
-    <string name="pref_notifications_summary">Zmeniť nastavenie upozornení.</string>
+    <string name="pref_notifications_summary">Zmeniť nastavenie upozornení</string>
     <string name="pref_notifications_enabled">Zapnúť upozornenia</string>
-    <string name="pref_notifications_enabled_summary">Zobraziť upozornenie po spustení aplikácie cez widget.</string>
+    <string name="pref_notifications_enabled_summary">Zobraziť upozornenie po spustení aplikácie cez widget</string>
     <string name="pref_notifications_active_only">Iba aktívne aplikácie</string>
-    <string name="pref_notifications_active_only_summary">Zobraziť iba aktívne aplikácie v upozorneniach.</string>
+    <string name="pref_notifications_active_only_summary">Zobraziť iba aktívne aplikácie v upozorneniach</string>
 
     <string name="pref_security">Zabezpečenie</string>
-    <string name="pref_security_summary">Zamedziť nežiadaným akciám.</string>
+    <string name="pref_security_summary">Zamedziť nežiadaným akciám</string>
     <string name="pref_protection_enabled">Zapnúť ochranu</string>
-    <string name="pref_protection_enabled_summary">Požadovať heslo pri každej akcii.</string>
+    <string name="pref_protection_enabled_summary">Požadovať heslo pri každej akcii</string>
     <string name="pref_change_password">Zmeniť heslo</string>
 
     <string name="pref_advanced">Rozšírené</string>
-    <string name="pref_advanced_summary">Viac nastavení pre skúsených užívateľov.</string>
+    <string name="pref_advanced_summary">Viac nastavení pre skúsených užívateľov</string>
     <string name="pref_advanced_apps">Aplikácie</string>
     <string name="pref_advanced_show_details">Zobraziť detaily</string>
-    <string name="pref_advanced_show_details_summary">Zobraziť názov balíka každej aplikácie.</string>
+    <string name="pref_advanced_show_details_summary">Zobraziť názov balíka každej aplikácie</string>
     <string name="pref_advanced_updates">Aktualizácia</string>
     <string name="pref_advanced_detect_updates">Sledovať aktualizácie</string>
-    <string name="pref_advanced_detect_updates_summary">Detekovať aktualizácie aplikácií v karanténe.</string>
+    <string name="pref_advanced_detect_updates_summary">Detekovať aktualizácie aplikácií v karanténe</string>
     <string name="pref_advanced_auto_quarantine">Automatická karanténa</string>
-    <string name="pref_advanced_auto_quarantine_summary">Vždy ponechať aktualizované aplikácie v karanténe.</string>
+    <string name="pref_advanced_auto_quarantine_summary">Vždy ponechať aktualizované aplikácie v karanténe</string>
     <string name="pref_advanced_system">Systém</string>
     <string name="pref_advanced_force_restart_launcher">Vynútiť reštartovanie spúšťača</string>
     <string name="pref_advanced_force_restart_launcher_summary">Automaticky reštartovať spúšťač po prepnutí aplikácií</string>
 
     <string name="pref_about">O programe</string>
-    <string name="pref_about_summary">Poďakovanie a viac informácií od vývojára.</string>
+    <string name="pref_about_summary">Poďakovanie a viac informácií od vývojára</string>
     <string name="pref_about_app">Aplikácia</string>
     <string name="pref_about_version">Verzia</string>
     <string name="pref_about_links">Odkazy</string>
@@ -162,9 +162,17 @@
     <string name="pref_about_plus">Google Plus</string>
     <string name="pref_about_plus_summary">Spojte sa so mnou na Google Plus.</string>
     <string name="pref_about_blog">Blog vývojára</string>
-    <string name="pref_about_blog_summary">Informujte sa o najnovších projektoch.</string>
+    <string name="pref_about_blog_summary">Informujte sa o najnovších projektoch</string>
     <string name="pref_about_credits">Poďakovanie</string>
+    <string name="pref_about_translations">Preklad</string>
+    <string name="pref_about_translations_available">Dostupné jazyky</string>
+    <string name="pref_about_translations_missing">Chýba váš jazyk?</string>
+    <string name="pref_about_translations_help">Pomôžte s prekladom</string>
+    <string name="pref_about_translations_help_summary">Spojte sa s vývojárom</string>
     <string name="pref_about_licenses">Logo + Open source licencie</string>
+
+    <string name="pref_translation_it">Italian</string>
+    <string name="pref_translation_sk">Slovak</string>
 
     <string name="enable_advanced_options">Povoliť rozšírené možnosti?</string>
     <string name="enable_advanced_options_summary">Povoľte rozšírené možnosti len ak viete, čo robíte. Ak vypnete nesprávnu službu systému, vaše zariadenie môže prestať pracovať!</string>
@@ -179,16 +187,32 @@
     <string name="search">Hľadať</string>
 
     <string name="pref_quarantinedrawer">Zobrazenie karantény</string>
-    <string name="pref_quarantinedrawer_summary">Nastavenia pre zobrazenie karantény.</string>
+    <string name="pref_quarantinedrawer_summary">Nastavenia pre zobrazenie karantény</string>
     <string name="pref_quarantinedrawer_enabled">Aktivovať</string>
     <string name="pref_quarantinedrawer_launch">Režim spustenia</string>
     <string name="pref_quarantinedrawer_shortcut">Zástupca aplikácie</string>
-    <string name="pref_quarantinedrawer_shortcut_summary">Povoliť umiestnenie zástupcu na hlavnú obrazovku.</string>
+    <string name="pref_quarantinedrawer_shortcut_summary">Povoliť umiestnenie zástupcu na hlavnú obrazovku</string>
     <string name="pref_quarantinedrawer_homebutton">Tlačidlo Domov</string>
-    <string name="pref_quarantinedrawer_homebutton_summary">Spustiť po dlhšom stlačení tlačidla Domov.</string>
+    <string name="pref_quarantinedrawer_homebutton_summary">Spustiť po dlhšom stlačení tlačidla Domov</string>
     <string name="pref_quarantinedrawer_test">Test</string>
     <string name="pref_quarantinedrawer_test_launch">Spustiť</string>
 
     <string name="pro_feature">Funkcia Pro</string>
+
+    <string name="favorites">Obľúbené</string>
+    <string name="add_to_favorites">Pridať k obľúbeným</string>
+    <string name="remove_from_favorites">Odstrániť z obľúbených</string>
+    <string name="add_to_favorites_summary">Označte aplikácie, ktoré chcete pridať</string>
+    <string name="remove_from_favorites_summary">Označte aplikácie, ktoré chcete odstrániť</string>
+    <string name="apply">Použiť</string>
+
+    <plurals name="favorites_added">
+        <item quantity="one">1 aplikácia bola pridaná</item>
+        <item quantity="other">Pridaných aplikácií - %d</item>
+    </plurals>
+    <plurals name="favorites_removed">
+        <item quantity="one">1 aplikácia bola odstránená</item>
+        <item quantity="other">Odstránených aplikácií - %d</item>
+    </plurals>
 
 </resources>
