@@ -131,6 +131,8 @@
     <string name="pref_notifications_enabled_summary">Benachrichtigungen anzeigen wenn Apps aus einem Widget gestartet werden</string>
     <string name="pref_notifications_active_only">Nur aktive Apps</string>
     <string name="pref_notifications_active_only_summary">Nur aktive Apps in Benachrichtigung anzeigen</string>
+    <string name="pref_notifications_ongoing">Dauerhafte Benachrichtigung</string>
+    <string name="pref_notifications_ongoing_summary">Benachrichtigung kann nicht geschlossen werden</string>
 
     <string name="pref_security">Sicherheit</string>
     <string name="pref_security_summary">Ungewollten Zugriff verhindern</string>
@@ -170,9 +172,6 @@
     <string name="pref_about_translations_help">Beim Übersetzen helfen</string>
     <string name="pref_about_translations_help_summary">Den Entwickler kontaktieren</string>
     <string name="pref_about_licenses">Logo + Open source Lizenzen</string>
-
-    <string name="pref_translation_it">Italienisch</string>
-    <string name="pref_translation_sk">Slowakisch</string>
 
     <string name="enable_advanced_options">Erweiterte Optionen</string>
     <string name="enable_advanced_options_summary">Bitte die erweiterten Optionen nur aktivieren wenn sie genau wissen was sie tun. Ihr Gerät wird nicht mehr richtig funktionieren wenn sie die falschen Systemdienste sperren!</string>

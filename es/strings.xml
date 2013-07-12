@@ -171,9 +171,6 @@
     <string name="pref_about_translations_help_summary">Ponerse en contacto con el desarrollador</string>
     <string name="pref_about_licenses">Logo + licencias Código Abierto</string>
 
-    <string name="pref_translation_it">Italiano</string>
-    <string name="pref_translation_sk">Eslovaco</string>
-
     <string name="enable_advanced_options">¿Habilitar opciones avanzadas?</string>
     <string name="enable_advanced_options_summary">¡Solo habilite las opciones avanzadas cuando sepa lo que esta haciendo! ¡Si desabilita los servicios de sistema equivocados su dispositivo podria no funcionar mas!</string>
     <string name="enable_force_restart_launcher">Farzar el reinicio del launcher?</string>

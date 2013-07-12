@@ -131,6 +131,8 @@
     <string name="pref_notifications_enabled_summary">Show notifications when apps are activated from a widget</string>
     <string name="pref_notifications_active_only">Active apps only</string>
     <string name="pref_notifications_active_only_summary">Only keep active apps in notification</string>
+    <string name="pref_notifications_ongoing">Ongoing notification</string>
+    <string name="pref_notifications_ongoing_summary">Permanent notification that can\'t be cancelled</string>
 
     <string name="pref_security">Security</string>
     <string name="pref_security_summary">Prevent unwanted actions</string>
@@ -170,9 +172,6 @@
     <string name="pref_about_translations_help">Help with translations</string>
     <string name="pref_about_translations_help_summary">Get in touch with the developer</string>
     <string name="pref_about_licenses">Logo + Open source licenses</string>
-
-    <string name="pref_translation_it">Italian</string>
-    <string name="pref_translation_sk">Slovak</string>
 
     <string name="enable_advanced_options">Enable advanced options?</string>
     <string name="enable_advanced_options_summary">Only enable advanced options when you know what you are doing! If you disable the wrong system services then your device might not work anymore!</string>
@@ -215,4 +214,8 @@
         <item quantity="other">%d apps have been removed</item>
     </plurals>
 
+    <string name="app_not_found">Error: app not found.</string>
+
+    <string name="not_supported">Not supported</string>
+    <string name="pref_not_supported_feature">This feature is not supported in your Android version</string>
 </resources>
