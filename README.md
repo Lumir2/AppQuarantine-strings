@@ -11,6 +11,7 @@ Maintainers
 en, de --> ramdroid<br>
 sk --> Lumir Strauch<br>
 it --> Gabriele Mariotti<br>
+es --> Lyn Scott<br>
 pl --> (abandoned - forgot name of previous translator)<br>
 
 
