@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Quarantine</string>
+    <string name="system_apps">Apps</string>
+    <string name="quarantine">Cuarentena</string>
+    <string name="settings">Configuraciones</string>
+    <string name="buttonLock">Bloquear</string>
+    <string name="buttonUnlock">Desbloquear</string>
+    <string name="InvalidItem">Item invalido</string>
+    <string name="PackageName">Nombre del paquete:</string>
+    <string name="Partition">Partición:</string>
+    <string name="LastUpdateTime">Última actualización:</string>
+    <string name="appVersion">Versión:</string>
+    <string name="OK">OK</string> 
+    <string name="Error">Error</string>
+    <string name="errorRootFailed">¡Falló en obtener acceso root! ¡Ud necesita un dispositivo rooteado y permitir privilegios de Superuser a esta app!</string>
+    <string name="select_details">Seleccione una app para ver mas detalles.</string>
+    <string name="Yes">Si</string>
+    <string name="No">No</string>
+    <string name="refreshing_list">Refrescando listado...</string>
+    <string name="perform_lock">Realizando el bloqueo...</string>
+    <string name="perform_unlock">Realizando el desbloqueo...</string>
+    <string name="restore_instructions">Su sistema ha sido reiniciado. ¿Ud quiere mover todas las apps seleccionadas de regreso a cuarentena?</string>
+    <string name="quarantine_updates">La siguiente app fue puesta en cuarentena pero ahora fue actualizada por el sistema:</string>
+    <string name="back_into_quarantine">¿Regresarla a cuarentena?</string>
+    <string name="check_auto_quarantine">Mover Automaticamente las actualizaciones en cuarentena</string>
+    <string name="select_the_apps">Por favor seleccione una aplicación para usar en el widget:</string>
+    <string name="refresh">Refrescar</string>
+    
+    <string name="groups">Grupos</string>
+    <string name="license">Créditos</string>
+    
+    <string name="addGroup">Añadir</string>
+    <string name="editGroup">Editar</string>
+    <string name="deleteGroup">Borrar</string>
+    <string name="filterGroups">Filtro</string>
+    <string name="saveGroup">Guardar</string>
+    <string name="groupName">Nombre</string>
+    <string name="groupApps">Apps</string>
+    <string name="editFilter">Editar filtro</string>
+    <string name="allPermissions">Todos los permisos</string>
+    <string name="selectPermissions">Seleccione permisos:</string>
+    <string name="askDeleteGroup">¿Borrar grupo?</string>
+    <string name="instructions_add_groups">En esta pantalla ud puede crear nuevos grupos. !En adelante simplemente accione el símbolo arriba!</string>
+
+    <string name="DEVELOPMENT_TOOLS">Herramientas de desarrollo</string>
+	<string name="PERSONAL_INFO">Datos personales</string>
+	<string name="COST_MONEY">Servicios que cuestan dinero</string>
+	<string name="LOCATION">Servicios de localización</string>
+	<string name="MESSAGES">Envío de mensajes</string>
+	<string name="NETWORK">Acceso a Internet</string>
+	<string name="ACCOUNTS">Manejo de cuentas de usuario</string>
+	<string name="STORAGE">Acceso a la tarjeta SD</string>
+	<string name="PHONE_CALLS">Hacer llamadas telefónicas</string>
+	<string name="HARDWARE_CONTROLS">Controles de Hardware</string>
+	<string name="SYSTEM_TOOLS">Herramientas de sistema</string>        
+
+    <string name="playstore">Play store</string>
+    <string name="appinfo">Información de la aplicación</string>    
+    <string name="errorAdbToggle">Falló en habilitar el modo de depuración USB. ¡Por favor verifique si AdbToggle esta instalado apropiadamente!</string>
+    <string name="cancel">Cancelar</string>
+    
+    <string name="password">Contraseña</string>
+    <string name="enterPassword">Introduzca su contraseña</string>
+    <string name="confirmPassword">Confirme su contraseña</string>
+    <string name="password_mismatch">¡Las contraseñas no son identicas! ¡Por favor intente nuevamente!</string>
+    <string name="password_too_short">¡La contraseña es muy corta! ¡Por favor escriba por lo menos 4 caracteres!</string>
+    <string name="error_storing_password">¡No pudo almacenar la contraseña! ¡La protección de contraseñas no esta activa!</string>
+    <string name="change">Cambiar</string>
+    <string name="enterPasswordInstructions">¡Por favor introduzca la contraseña para desbloquear!</string>
+    <string name="wrongPassword">¡Contraseña erronea! ¡Por favor intente nuevamente!</string>
+    <string name="passwordChanged">¡La contraseña ha sido cambiada!</string>
+    
+    <string name="enableAll">Habilitar todo</string>
+    <string name="disableAll">Deshabilitar todo</string>
+
+    <plurals name="apps">
+        <item quantity="one">1 app seleccionada</item>
+        <item quantity="other">%s apps seleccionadas</item>
+    </plurals>
+    <plurals name="groups">
+        <item quantity="one">1 grupo seleccionado</item>
+        <item quantity="other">%s grupos seleccionados</item>
+    </plurals>
+
+    <string name="senderrorreport">Enviar un reporte de error</string>
+    <string name="errorRootAccess">¡Un error inesperado ocurrio! ¿Quiere enviar un reporte de error al desarrollador ahora?</string>
+    <string name="errorSuFailure">¡El comando falló! Por favor actualice su binario \'SuperUser\'!\n\nSi esto no funciona o si aún tiene inconvenientes entonces considere usar \'SuperSu\' en su lugar.</string>
+
+    <plurals name="active_apps">
+        <item quantity="one">1 app activa</item>
+        <item quantity="other">%d apps activas</item>
+    </plurals>
+
+    <string name="no_active_apps">Cuando ud active las apps desde un widget ellas podran ser alternadas/accionadas aqui.</string>
+
+    <string name="pref_filter">Filtro</string>
+    <string name="pref_filter_summary">Cambiar la clase de apps que puede poner en cuarentena</string>
+    <string name="pref_filter_apps">Apps</string>
+    <string name="pref_filter_apps_title">Filtro de apps</string>
+
+    <string name="pref_filter_apps_all">Mostrar todas las apps</string>
+    <string name="pref_filter_apps_all_summary">Mostrar apps de usuario y de sistema. Las apps de sistema estan resaltadas en rojo.</string>
+    <string name="pref_filter_apps_system">Apps de sistema solamente</string>
+    <string name="pref_filter_apps_system_summary">Mostrar apps de sistema solamente.</string>
+    <string name="pref_filter_apps_user">Apps de usuario solamente</string>
+    <string name="pref_filter_apps_user_summary">Mostrar apps de usuario solamente.</string>
+    <string name="pref_filter_advanced">Advanzado</string>
+    <string name="pref_filter_advanced_summary">Para usuarios experimentados</string>
+    <string name="pref_filter_system_services">Servicios de sistema</string>
+    <string name="pref_filter_system_services_summary">Incluir servicios de sistema</string>
+
+    <string name="pref_widgets">Widgets</string>
+    <string name="pref_widgets_summary">Personalizar la apariencia y comportamiento de los widgets</string>
+    <string name="pref_widgets_behavior">Comportamiento</string>
+    <string name="pref_widget_direct_launch">Ejecución directa</string>
+    <string name="pref_widget_direct_launch_summary">Ejecutar apps con un click</string>
+    <string name="pref_widgets_appearance">Apariencia</string>
+    <string name="pref_widget_custom_appearance">Personalizar apariencia</string>
+    <string name="pref_widget_custom_appearance_summary">Cambiar la apariencia por defecto</string>
+    <string name="pref_widget_black_background">Fondo negro</string>
+    <string name="pref_widget_black_background_summary">Mostrar con fondo negro</string>
+    <string name="pref_widget_hide_caption">Ocultar títulos</string>
+    <string name="pref_widget_hide_caption_summary">Ocultar el nombre de grupo/app</string>
+    <string name="pref_widget_hide_status_icon">Ocultar status</string>
+    <string name="pref_widget_hide_status_icon_summary">Ocultar el indicador de alternar status</string>
+
+    <string name="pref_notifications">Notificaciones</string>
+    <string name="pref_notifications_summary">Cambiar configuración de notificaciones</string>
+    <string name="pref_notifications_enabled">Habilitar notificationes</string>
+    <string name="pref_notifications_enabled_summary">Mostrar notificaciones cuando las apps sean activadas desde un widget</string>
+    <string name="pref_notifications_active_only">Apps activas solamente</string>
+    <string name="pref_notifications_active_only_summary">Solo mantener en notificaciones las apps activas</string>
+
+    <string name="pref_security">Seguridad</string>
+    <string name="pref_security_summary">Prevenir acciones no deseadas</string>
+    <string name="pref_protection_enabled">Habilitar protección</string>
+    <string name="pref_protection_enabled_summary">Requerir una contraseña para cualquier acción</string>
+    <string name="pref_change_password">Cambiar contraseña</string>
+
+    <string name="pref_advanced">Avanzado</string>
+    <string name="pref_advanced_summary">Mas configuraciones para usuarios avanzados</string>
+    <string name="pref_advanced_apps">Apps</string>
+    <string name="pref_advanced_show_details">Mostrar detalles</string>
+    <string name="pref_advanced_show_details_summary">Mostrar nombre del paquete para cada app</string>
+    <string name="pref_advanced_updates">Actualizaciones</string>
+    <string name="pref_advanced_detect_updates">Monitorear actualizaciones</string>
+    <string name="pref_advanced_detect_updates_summary">Detectar actualizaciones de apps en cuarentena</string>
+    <string name="pref_advanced_auto_quarantine">Auto cuarentena</string>
+    <string name="pref_advanced_auto_quarantine_summary">Mantener siempre las apps actualizadas en cuarentena</string>
+    <string name="pref_advanced_system">Sistema</string>
+    <string name="pref_advanced_force_restart_launcher">Forzar reiniciar el launcher</string>
+    <string name="pref_advanced_force_restart_launcher_summary">Reiniciar automaticamente el launcher cuando las apps sean accionadas</string>
+
+    <string name="pref_about">Acerca</string>
+    <string name="pref_about_summary">Credítos y mas información del desarrollador</string>
+    <string name="pref_about_app">App</string>
+    <string name="pref_about_version">Versión</string>
+    <string name="pref_about_links">Enlaces</string>
+    <string name="pref_about_rate">Calificame</string>
+    <string name="pref_about_rate_summary">Crear un comentario y calificar la app</string>
+    <string name="pref_about_plus">Google Plus</string>
+    <string name="pref_about_plus_summary">Seguirme en Google Plus</string>
+    <string name="pref_about_blog">Blog del Desarrollador</string>
+    <string name="pref_about_blog_summary">Mantente informado de mis últimos proyectos</string>
+    <string name="pref_about_credits">Credítos</string>
+    <string name="pref_about_translations">Tranducciones</string>
+    <string name="pref_about_translations_available">Lenguajes disponibles</string>
+    <string name="pref_about_translations_missing">¿Falta tu lenguaje?</string>
+    <string name="pref_about_translations_help">Ayudar con traducciones</string>
+    <string name="pref_about_translations_help_summary">Ponerse en contacto con el desarrollador</string>
+    <string name="pref_about_licenses">Logo + licencias Código Abierto</string>
+
+    <string name="pref_translation_it">Italiano</string>
+    <string name="pref_translation_sk">Eslovaco</string>
+
+    <string name="enable_advanced_options">¿Habilitar opciones avanzadas?</string>
+    <string name="enable_advanced_options_summary">¡Solo habilite las opciones avanzadas cuando sepa lo que esta haciendo! ¡Si desabilita los servicios de sistema equivocados su dispositivo podria no funcionar mas!</string>
+    <string name="enable_force_restart_launcher">Farzar el reinicio del launcher?</string>
+    <string name="enable_force_restart_launcher_summary">Solo use esta opción si las apps en cuarentena aún aparecen en su launcher. Usualmente todos los launchers detectan apps desabilitadas automaticamente, sin embargo launchers antiguos aún no soportan esto. ¡Por favor use esta opción solo si ud tiene este inconveniente!</string>
+
+    <string name="pref_pro_version_feature">¡Esta caracteristica esta disponible solo en la versión pro!</string>
+
+    <string name="unknown">Desconocido</string>
+
+    <string name="quarantine_drawer">Bandeja de cuarentena</string>
+    <string name="search">Buscar</string>
+
+    <string name="pref_quarantinedrawer">Bandeja de cuarentena</string>
+    <string name="pref_quarantinedrawer_summary">Configurar las opciones de la bandeja de cuarentena</string>
+    <string name="pref_quarantinedrawer_enabled">Activar</string>
+    <string name="pref_quarantinedrawer_launch">Mode de ejecución</string>
+    <string name="pref_quarantinedrawer_shortcut">Acceso directo a la App</string>
+    <string name="pref_quarantinedrawer_shortcut_summary">Habilitar un acceso directo que ud podra colocar en su pantalla de inicio</string>
+    <string name="pref_quarantinedrawer_homebutton">Botón de inicio</string>
+    <string name="pref_quarantinedrawer_homebutton_summary">Ejecutar usando una pulsación prolongada en el botón de inicio</string>
+    <string name="pref_quarantinedrawer_test">Probar</string>
+    <string name="pref_quarantinedrawer_test_launch">Ejecutar ahora</string>
+
+    <string name="pro_feature">Característica Pro</string>
+
+    <string name="favorites">Favoritos</string>
+    <string name="add_to_favorites">Añadir a favoritos</string>
+    <string name="remove_from_favorites">Remover de favoritos</string>
+    <string name="add_to_favorites_summary">Toque las apps que quiere añadir</string>
+    <string name="remove_from_favorites_summary">Toque las apps que quiere remover</string>
+    <string name="apply">Aplicar</string>
+
+    <plurals name="favorites_added">
+        <item quantity="one">1 app ha sido añadida</item>
+        <item quantity="other">%d apps han sido añadidas</item>
+    </plurals>
+    <plurals name="favorites_removed">
+        <item quantity="one">1 app ha sido removida</item>
+        <item quantity="other">%d apps han sido removidas</item>
+    </plurals>
+
+</resources>
