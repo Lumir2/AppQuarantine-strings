@@ -158,6 +158,8 @@
     <string name="pref_about_summary">Credits and more information from developer</string>
     <string name="pref_about_app">App</string>
     <string name="pref_about_version">Version</string>
+    <string name="pref_about_joinbeta">Join as beta tester</string>
+    <string name="pref_about_joinbeta_summary">Join my community on Google Plus and receive the newest beta versions through Google Play!</string>
     <string name="pref_about_links">Links</string>
     <string name="pref_about_rate">Rate me</string>
     <string name="pref_about_rate_summary">Post a comment and leave a rating</string>
