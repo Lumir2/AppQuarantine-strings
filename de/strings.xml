@@ -214,4 +214,13 @@
         <item quantity="other">%d apps wurden entfernt</item>
     </plurals>
 
+    <string name="app_not_found">Fehler: App nicht gefunden.</string>
+
+    <string name="not_supported">Nicht unterstützt</string>
+    <string name="pref_not_supported_feature">Dieses Feature funktioniert nicht mit ihrer Android Version</string>
+
+    <string name="remove_free_version">Vielen Dank für den Erwerb der Vollversion! Wollen sie die kostenlose Version nun entfernen?</string>
+    <string name="free_version_has_been_uninstalled">Die kostenlose Version wurde deinstalliert.</string>
+    <string name="failed_to_remove_free_version">Die kostenlose Version konnte nicht entfernt werden. Bitte deinstallieren sie diese manuell!</string>
+
 </resources>

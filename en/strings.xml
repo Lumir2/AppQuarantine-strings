@@ -218,4 +218,9 @@
 
     <string name="not_supported">Not supported</string>
     <string name="pref_not_supported_feature">This feature is not supported in your Android version</string>
+
+    <string name="remove_free_version">Thanks for your purchase! Do you want to uninstall the free version now?</string>
+    <string name="free_version_has_been_uninstalled">The free version has been uninstalled</string>
+    <string name="failed_to_remove_free_version">Could not remove the free version. Please uninstall manually!</string>
+
 </resources>
