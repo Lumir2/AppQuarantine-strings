@@ -160,6 +160,8 @@
     <string name="pref_about_version">Version</string>
     <string name="pref_about_joinbeta">Als Beta-Tester beitreten</string>
     <string name="pref_about_joinbeta_summary">Treten sie meiner Community auf Google Plus bei und erhalten sie die neuesten Beta-Version durch Google Play!</string>
+    <string name="pref_about_morelinks">Weitere Seiten anschauen</string>
+    <string name="pref_about_morelinks_summary">Weitere interessante Links vom Entwickler</string>
     <string name="pref_about_links">Links</string>
     <string name="pref_about_rate">Bewerte mich</string>
     <string name="pref_about_rate_summary">Hinterlassen sie mir eine Bewertung</string>
@@ -167,6 +169,8 @@
     <string name="pref_about_plus_summary">Folgen sie mir auf Google Plus</string>
     <string name="pref_about_blog">Entwickler Blog</string>
     <string name="pref_about_blog_summary">Erfahren sie alles über meine neuesten Projekte</string>
+    <string name="pref_about_rootcommunity">Root-Community</string>
+    <string name="pref_about_rootcommunity_summary">Google Plus Community für Nutzer mit Root</string>
     <string name="pref_about_credits">Credits</string>
     <string name="pref_about_translations">Übersetzungen</string>
     <string name="pref_about_translations_available">Verfügbare Sprachen</string>
@@ -224,5 +228,8 @@
     <string name="remove_free_version">Vielen Dank für den Erwerb der Vollversion! Wollen sie die kostenlose Version nun entfernen?</string>
     <string name="free_version_has_been_uninstalled">Die kostenlose Version wurde deinstalliert.</string>
     <string name="failed_to_remove_free_version">Die kostenlose Version konnte nicht entfernt werden. Bitte deinstallieren sie diese manuell!</string>
+
+    <string name="disable_app_summary">Icon antippen zum Sperren</string>
+    <string name="enable_app_summary">Icon antippen zum Entsperren</string>
 
 </resources>
