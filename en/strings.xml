@@ -232,4 +232,11 @@
     <string name="disable_app_summary">Touch icon to disable</string>
     <string name="enable_app_summary">Touch icon to enable</string>
 
+    <string name="hide_apps">Hide apps</string>
+
+    <plurals name="hidden_apps_updated">
+        <item quantity="one">1 app is hidden</item>
+        <item quantity="other">%d apps are hidden</item>
+    </plurals>
+
 </resources>

@@ -212,12 +212,12 @@
     <string name="apply">Übernehmen</string>
 
     <plurals name="favorites_added">
-        <item quantity="one">1 app wurde hinzugefügt</item>
-        <item quantity="other">%d apps wurden hinzugefügt</item>
+        <item quantity="one">1 App wurde hinzugefügt</item>
+        <item quantity="other">%d Apps wurden hinzugefügt</item>
     </plurals>
     <plurals name="favorites_removed">
-        <item quantity="one">1 app wurde entfernt</item>
-        <item quantity="other">%d apps wurden entfernt</item>
+        <item quantity="one">1 App wurde entfernt</item>
+        <item quantity="other">%d Apps wurden entfernt</item>
     </plurals>
 
     <string name="app_not_found">Fehler: App nicht gefunden.</string>
@@ -231,5 +231,12 @@
 
     <string name="disable_app_summary">Icon antippen zum Sperren</string>
     <string name="enable_app_summary">Icon antippen zum Entsperren</string>
+
+    <string name="hide_apps">Apps ausblenden</string>
+
+    <plurals name="hidden_apps_updated">
+        <item quantity="one">1 App ist ausgeblendet</item>
+        <item quantity="other">%d Apps sind ausgeblendet</item>
+    </plurals>
 
 </resources>
