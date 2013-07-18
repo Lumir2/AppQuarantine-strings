@@ -131,6 +131,8 @@
     <string name="pref_notifications_enabled_summary">Mostrar notificaciones cuando las apps sean activadas desde un widget</string>
     <string name="pref_notifications_active_only">Apps activas solamente</string>
     <string name="pref_notifications_active_only_summary">Solo mantener en notificaciones las apps activas</string>
+	<string name="pref_notifications_ongoing">Notificaciones permanentes</string>
+    <string name="pref_notifications_ongoing_summary">Las notificaciones permanentes que no pueden ser canceladas</string>
 
     <string name="pref_security">Seguridad</string>
     <string name="pref_security_summary">Prevenir acciones no deseadas</string>
@@ -156,6 +158,10 @@
     <string name="pref_about_summary">Credítos y mas información del desarrollador</string>
     <string name="pref_about_app">App</string>
     <string name="pref_about_version">Versión</string>
+	<string name="pref_about_joinbeta">Unetenos como beta tester</string>
+    <string name="pref_about_joinbeta_summary">Unete a mi comunidad en Google Plus y recive las nuevas versiones beta a través de Google Play!</string>
+    <string name="pref_about_morelinks">Echa un vistazo a mas sitios web</string>
+    <string name="pref_about_morelinks_summary">Mas enlaces interezantes del desarrollador</string>
     <string name="pref_about_links">Enlaces</string>
     <string name="pref_about_rate">Calificame</string>
     <string name="pref_about_rate_summary">Crear un comentario y calificar la app</string>
@@ -163,13 +169,15 @@
     <string name="pref_about_plus_summary">Seguirme en Google Plus</string>
     <string name="pref_about_blog">Blog del Desarrollador</string>
     <string name="pref_about_blog_summary">Mantente informado de mis últimos proyectos</string>
+    <string name="pref_about_rootcommunity">Comunidad Root</string>
+    <string name="pref_about_rootcommunity_summary">Comunidad en Google Plus para usuarios root</string>
     <string name="pref_about_credits">Credítos</string>
     <string name="pref_about_translations">Tranducciones</string>
     <string name="pref_about_translations_available">Lenguajes disponibles</string>
     <string name="pref_about_translations_missing">¿Falta tu lenguaje?</string>
     <string name="pref_about_translations_help">Ayudar con traducciones</string>
     <string name="pref_about_translations_help_summary">Ponerse en contacto con el desarrollador</string>
-    <string name="pref_about_licenses">Logo + licencias Código Abierto</string>
+    <string name="pref_about_licenses">Logo + licencias Open source</string>
 
     <string name="enable_advanced_options">¿Habilitar opciones avanzadas?</string>
     <string name="enable_advanced_options_summary">¡Solo habilite las opciones avanzadas cuando sepa lo que esta haciendo! ¡Si desabilita los servicios de sistema equivocados su dispositivo podria no funcionar mas!</string>
@@ -210,6 +218,25 @@
     <plurals name="favorites_removed">
         <item quantity="one">1 app ha sido removida</item>
         <item quantity="other">%d apps han sido removidas</item>
+    </plurals>
+
+    <string name="app_not_found">Error: app no encontrada.</string>
+
+    <string name="not_supported">No soportada</string>
+    <string name="pref_not_supported_feature">Esta funcionalidad no es soportada en su versión de Android</string>
+
+    <string name="remove_free_version">¡Gracias por su compra! ¿Ud quiere desinstalar la versión gratuita ahora?</string>
+    <string name="free_version_has_been_uninstalled">La versión gratuita ha sido desinstalada</string>
+    <string name="failed_to_remove_free_version">No pudo remover la versión gratuita. Por favor desinstalar manualmente!</string>
+
+    <string name="disable_app_summary">Toque el icono para deshabilitar</string>
+    <string name="enable_app_summary">Toque el icono para habilitar</string>
+
+    <string name="hide_apps">Ocultar apps</string>
+
+    <plurals name="hidden_apps_updated">
+        <item quantity="one">1 app esta oculta</item>
+        <item quantity="other">%d apps estan ocultas</item>
     </plurals>
 
 </resources>
