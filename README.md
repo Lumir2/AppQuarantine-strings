@@ -1,7 +1,12 @@
 Translations for App Quarantine/Pro
 ===================================
 
-Here are ALL THE STRINGS used in App Quarantine/Pro. The texts are all done in English orginally and need to be translated into all possible languages. The German ones are maintained by myself but unfortunately I need your help for all others ;)
+Update: Translations have moved to crowdin. Please contribute on the new site: 
+
+https://crowdin.net/project/app-quarantine
+
+
+
 
 
 
@@ -10,6 +15,8 @@ Maintainers
 
 en, de --> ramdroid<br>
 sk --> Lumir Strauch<br>
+it --> Gabriele Mariotti<br>
+es --> Lyn Scott<br>
 pl --> (abandoned - forgot name of previous translator)<br>
 
 

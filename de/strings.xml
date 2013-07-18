@@ -131,6 +131,8 @@
     <string name="pref_notifications_enabled_summary">Benachrichtigungen anzeigen wenn Apps aus einem Widget gestartet werden</string>
     <string name="pref_notifications_active_only">Nur aktive Apps</string>
     <string name="pref_notifications_active_only_summary">Nur aktive Apps in Benachrichtigung anzeigen</string>
+    <string name="pref_notifications_ongoing">Dauerhafte Benachrichtigung</string>
+    <string name="pref_notifications_ongoing_summary">Benachrichtigung kann nicht geschlossen werden</string>
 
     <string name="pref_security">Sicherheit</string>
     <string name="pref_security_summary">Ungewollten Zugriff verhindern</string>
@@ -156,6 +158,10 @@
     <string name="pref_about_summary">Credits and weitere Informationen vom Entwickler</string>
     <string name="pref_about_app">App</string>
     <string name="pref_about_version">Version</string>
+    <string name="pref_about_joinbeta">Als Beta-Tester beitreten</string>
+    <string name="pref_about_joinbeta_summary">Treten sie meiner Community auf Google Plus bei und erhalten sie die neuesten Beta-Version durch Google Play!</string>
+    <string name="pref_about_morelinks">Weitere Seiten anschauen</string>
+    <string name="pref_about_morelinks_summary">Weitere interessante Links vom Entwickler</string>
     <string name="pref_about_links">Links</string>
     <string name="pref_about_rate">Bewerte mich</string>
     <string name="pref_about_rate_summary">Hinterlassen sie mir eine Bewertung</string>
@@ -163,7 +169,14 @@
     <string name="pref_about_plus_summary">Folgen sie mir auf Google Plus</string>
     <string name="pref_about_blog">Entwickler Blog</string>
     <string name="pref_about_blog_summary">Erfahren sie alles über meine neuesten Projekte</string>
+    <string name="pref_about_rootcommunity">Root-Community</string>
+    <string name="pref_about_rootcommunity_summary">Google Plus Community für Nutzer mit Root</string>
     <string name="pref_about_credits">Credits</string>
+    <string name="pref_about_translations">Übersetzungen</string>
+    <string name="pref_about_translations_available">Verfügbare Sprachen</string>
+    <string name="pref_about_translations_missing">Fehlt ihre Sprache?</string>
+    <string name="pref_about_translations_help">Beim Übersetzen helfen</string>
+    <string name="pref_about_translations_help_summary">Den Entwickler kontaktieren</string>
     <string name="pref_about_licenses">Logo + Open source Lizenzen</string>
 
     <string name="enable_advanced_options">Erweiterte Optionen</string>
@@ -174,5 +187,56 @@
     <string name="pref_pro_version_feature">Diese Funktion ist nur in der Pro-Version verfügbar!</string>
 
     <string name="unknown">Unbekannt</string>
+
+    <string name="quarantine_drawer">Quarantine drawer</string>
+    <string name="search">Search</string>
+
+    <string name="pref_quarantinedrawer">Quarantine drawer</string>
+    <string name="pref_quarantinedrawer_summary">Optionen für den Quarantine drawer konfigurieren</string>
+    <string name="pref_quarantinedrawer_enabled">Aktivieren</string>
+    <string name="pref_quarantinedrawer_launch">Start-Modus</string>
+    <string name="pref_quarantinedrawer_shortcut">Desktop Verknüpfung</string>
+    <string name="pref_quarantinedrawer_shortcut_summary">Verknüpfung kann auf dem Desktop angelegt werden</string>
+    <string name="pref_quarantinedrawer_homebutton">Home Taste</string>
+    <string name="pref_quarantinedrawer_homebutton_summary">Home Taste lange gedrückt halten um zu Starten</string>
+    <string name="pref_quarantinedrawer_test">Testen</string>
+    <string name="pref_quarantinedrawer_test_launch">Jetzt starten</string>
+
+    <string name="pro_feature">Pro feature</string>
+
+    <string name="favorites">Favoriten</string>
+    <string name="add_to_favorites">Hinzufügen</string>
+    <string name="remove_from_favorites">Entfernen</string>
+    <string name="add_to_favorites_summary">Apps antippen zum Hinzufügen</string>
+    <string name="remove_from_favorites_summary">Apps antippen zum Entfernen</string>
+    <string name="apply">Übernehmen</string>
+
+    <plurals name="favorites_added">
+        <item quantity="one">1 App wurde hinzugefügt</item>
+        <item quantity="other">%d Apps wurden hinzugefügt</item>
+    </plurals>
+    <plurals name="favorites_removed">
+        <item quantity="one">1 App wurde entfernt</item>
+        <item quantity="other">%d Apps wurden entfernt</item>
+    </plurals>
+
+    <string name="app_not_found">Fehler: App nicht gefunden.</string>
+
+    <string name="not_supported">Nicht unterstützt</string>
+    <string name="pref_not_supported_feature">Dieses Feature funktioniert nicht mit ihrer Android Version</string>
+
+    <string name="remove_free_version">Vielen Dank für den Erwerb der Vollversion! Wollen sie die kostenlose Version nun entfernen?</string>
+    <string name="free_version_has_been_uninstalled">Die kostenlose Version wurde deinstalliert.</string>
+    <string name="failed_to_remove_free_version">Die kostenlose Version konnte nicht entfernt werden. Bitte deinstallieren sie diese manuell!</string>
+
+    <string name="disable_app_summary">Icon antippen zum Sperren</string>
+    <string name="enable_app_summary">Icon antippen zum Entsperren</string>
+
+    <string name="hide_apps">Apps ausblenden</string>
+
+    <plurals name="hidden_apps_updated">
+        <item quantity="one">1 App ist ausgeblendet</item>
+        <item quantity="other">%d Apps sind ausgeblendet</item>
+    </plurals>
 
 </resources>

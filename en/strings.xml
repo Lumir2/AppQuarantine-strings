@@ -131,6 +131,8 @@
     <string name="pref_notifications_enabled_summary">Show notifications when apps are activated from a widget</string>
     <string name="pref_notifications_active_only">Active apps only</string>
     <string name="pref_notifications_active_only_summary">Only keep active apps in notification</string>
+    <string name="pref_notifications_ongoing">Ongoing notification</string>
+    <string name="pref_notifications_ongoing_summary">Permanent notification that can\'t be cancelled</string>
 
     <string name="pref_security">Security</string>
     <string name="pref_security_summary">Prevent unwanted actions</string>
@@ -156,6 +158,10 @@
     <string name="pref_about_summary">Credits and more information from developer</string>
     <string name="pref_about_app">App</string>
     <string name="pref_about_version">Version</string>
+    <string name="pref_about_joinbeta">Join as beta tester</string>
+    <string name="pref_about_joinbeta_summary">Join my community on Google Plus and receive the newest beta versions through Google Play!</string>
+    <string name="pref_about_morelinks">Check out more sites</string>
+    <string name="pref_about_morelinks_summary">More interesting links from the developer</string>
     <string name="pref_about_links">Links</string>
     <string name="pref_about_rate">Rate me</string>
     <string name="pref_about_rate_summary">Post a comment and leave a rating</string>
@@ -163,7 +169,14 @@
     <string name="pref_about_plus_summary">Join me on Google Plus</string>
     <string name="pref_about_blog">Developer blog</string>
     <string name="pref_about_blog_summary">Keep up with my newest projects</string>
+    <string name="pref_about_rootcommunity">Root community</string>
+    <string name="pref_about_rootcommunity_summary">Community on Google Plus for root users</string>
     <string name="pref_about_credits">Credits</string>
+    <string name="pref_about_translations">Translations</string>
+    <string name="pref_about_translations_available">Available languages</string>
+    <string name="pref_about_translations_missing">Is your language missing?</string>
+    <string name="pref_about_translations_help">Help with translations</string>
+    <string name="pref_about_translations_help_summary">Get in touch with the developer</string>
     <string name="pref_about_licenses">Logo + Open source licenses</string>
 
     <string name="enable_advanced_options">Enable advanced options?</string>
@@ -190,5 +203,40 @@
     <string name="pref_quarantinedrawer_test_launch">Launch now</string>
 
     <string name="pro_feature">Pro feature</string>
+
+    <string name="favorites">Favorites</string>
+    <string name="add_to_favorites">Add to favourites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="add_to_favorites_summary">Touch apps you want to add</string>
+    <string name="remove_from_favorites_summary">Touch apps you want to remove</string>
+    <string name="apply">Apply</string>
+
+    <plurals name="favorites_added">
+        <item quantity="one">1 app has been added</item>
+        <item quantity="other">%d apps have been added</item>
+    </plurals>
+    <plurals name="favorites_removed">
+        <item quantity="one">1 app has been removed</item>
+        <item quantity="other">%d apps have been removed</item>
+    </plurals>
+
+    <string name="app_not_found">Error: app not found.</string>
+
+    <string name="not_supported">Not supported</string>
+    <string name="pref_not_supported_feature">This feature is not supported in your Android version</string>
+
+    <string name="remove_free_version">Thanks for your purchase! Do you want to uninstall the free version now?</string>
+    <string name="free_version_has_been_uninstalled">The free version has been uninstalled</string>
+    <string name="failed_to_remove_free_version">Could not remove the free version. Please uninstall manually!</string>
+
+    <string name="disable_app_summary">Touch icon to disable</string>
+    <string name="enable_app_summary">Touch icon to enable</string>
+
+    <string name="hide_apps">Hide apps</string>
+
+    <plurals name="hidden_apps_updated">
+        <item quantity="one">1 app is hidden</item>
+        <item quantity="other">%d apps are hidden</item>
+    </plurals>
 
 </resources>
